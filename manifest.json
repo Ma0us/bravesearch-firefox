@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Brave Search",
-  "version": "1.0",
+  "version": "1.0.2",
   "description": "Add Brave Search to Firefox",
   "chrome_settings_overrides": {
     "search_provider": {
