@@ -8,6 +8,7 @@
     "search_provider": {
       "name": "Brave",
       "search_url": "https://search.brave.com/search?q={searchTerms}",
+      "suggest_url": "https://search.brave.com/api/suggest?q={searchTerms}",
       "favicon_url": "https://brave.com/static-assets/images/brave-favicon.png",
       "keyword": "@brave"
     }
